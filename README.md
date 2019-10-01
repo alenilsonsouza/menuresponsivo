@@ -1,7 +1,7 @@
 <h1>Menu Responsivo</h1>
 
 <p>Arquivo index.html:</p>
-<code>
+````
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -36,7 +36,7 @@
 <script src="script.js"></script>    
 </body>
 </html>
-</code>
+````
 
 <p>Arquivo script.js:</p>
 <pre>
