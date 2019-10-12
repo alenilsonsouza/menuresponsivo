@@ -1,5 +1,7 @@
 <h1>Menu Responsivo</h1>
 
+Exemplo: https://alenilsonsouza.github.io/menuresponsivo/
+
 <p>Arquivo script.js:</p>
 <pre>
 $(function(){
